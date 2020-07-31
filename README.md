@@ -17,4 +17,4 @@
 
 ---
 
-You can DM on discord at: `MrShadow#0001`.sss
+You can DM on discord at: `MrShadow#0001`
