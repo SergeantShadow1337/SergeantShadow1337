@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome!
+  
+![Sergeant Shadow 1337's Github Stats](https://github-readme-stats.vercel.app/api?username=SergeantShadow1337&show_icons=true&theme=highcontrast&count_private=true)
 
-<!--
-**SergeantShadow1337/SergeantShadow1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Languages</h1>
 
-Here are some ideas to get you started:
+<h2>Mastered: </h2>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/javascript.svg"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/nodejs.svg"></code>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/python.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Knows:</h2>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/cpp.svg"></code>
+
+<h2>Learning:</h2>
+<code><img width="25px" src="https://github.com/JonasSchiott/JonasSchiott/blob/master/assets/typescript.svg"></code>
+
+---
+
+You can DM on discord at: `MrShadow#0001`.sss
