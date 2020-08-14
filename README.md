@@ -5,9 +5,9 @@
 <h1>Languages</h1>
 
 <h2>Mastered: </h2>
-<code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/js.svg"></code>
+<code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/javascript.svg"></code>
 <code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/nodejs.svg"></code>
-<code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/python.svg"></code>
+<code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/python.png"></code>
 
 <h2>Knows:</h2>
 <code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/cpp.svg"></code>
