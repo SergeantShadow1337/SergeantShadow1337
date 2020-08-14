@@ -15,6 +15,7 @@
 <h2>Learning:</h2>
 <code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/typescript.svg"></code>
 <code><img width="25px" src="https://github.com/SergeantShadow1337/SergeantShadow1337/blob/master/assets/go.svg"></code>
+
 ---
 
 You can DM on discord at: `MrShadow#0001`
