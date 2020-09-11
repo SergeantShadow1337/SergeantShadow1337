@@ -18,4 +18,4 @@
 
 ---
 
-You can DM on discord at: `MrShadow#9999`
+You can DM on discord at: `MrShadow#0001`
