@@ -18,4 +18,6 @@
 
 ---
 
+I know a multitude of languages, some I care to disclose and others I'd rather not.
+ 
 You can DM on discord at: `MrShadow#0001`
